@@ -1,8 +1,8 @@
 Hey, I'm Aswin Mohan.
 
-Weekly Coding Stats
-===================
-Desperate attempts at productivity, courtesy of https://github.com/athul/waka-readme
+**Weekly Coding Stats**
+
+Desperate attempts at productivity with peer pressure, courtesy of https://github.com/athul/waka-readme
 
 <!--START_SECTION:waka-->
 ```text
