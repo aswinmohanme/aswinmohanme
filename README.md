@@ -10,10 +10,10 @@ Desperate attempts at productivity with peer pressure, courtesy of https://githu
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 56 mins   █████████████████▓░░░░░░░   70.97 % 
-TypeScript   45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-VimL         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Groovy       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript   2 hrs 1 min     ███████████████████░░░░░░   75.46 % 
+VimL         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Markdown     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+XML          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Git          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 <!--END_SECTION:waka-->
