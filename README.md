@@ -10,10 +10,10 @@ Desperate attempts at productivity with peer pressure, courtesy of https://githu
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin     3 hrs 21 mins   ████████████████▓░░░░░░░░   66.53 % 
-XML        1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Other      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Groovy     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Kotlin   3 hrs 21 mins   ████████████████░░░░░░░░░   64.62 % 
+XML      1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Other    19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Groovy   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Dart     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 <!--END_SECTION:waka-->
