@@ -10,10 +10,10 @@ Desperate attempts at productivity with peer pressure, courtesy of https://githu
 
 <!--START_SECTION:waka-->
 ```text
-Dart       4 hrs 3 mins    ███████████████████████░░   92.09 % 
-YAML       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Git        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-VimL       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Dart       5 hrs 3 mins    ███████████████████████▒░   92.69 % 
+YAML       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Git        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+VimL       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
