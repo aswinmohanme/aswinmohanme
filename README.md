@@ -3,7 +3,3 @@ Hey, I'm Aswin Mohan, I design, develop and make (hopefully) awesome products. T
 Let's make the world a better place than it was yesterday.
 
 <hr />
-
-**Weekly Coding Stats**
-
-Desperate attempts at productivity with peer pressure, courtesy of https://github.com/athul/waka-readme
