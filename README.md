@@ -1,5 +1,5 @@
-Hey, I'm Aswin Mohan, I design, develop and make (hopefully) awesome products. There is something magical about bringing to the world that never existed before. I'm also a big fan of simplicity, the design language of Braun. 
+Hey, I'm Aswin Mohan. I'm a Software Developer currently based out of Kerala, India. I love to design, code and make bold, beautiful, useful things. I love film photography, old typewriters and completely mechanical things with zero trace of electronics on the side.
 
-Let's make the world a better place than it was yesterday.
+I primarly work with Elixir, Phoenix LiveView, React, NextJS, React Native and TailwindCSS. I do occasional Rails, Flutter and sometimes UI/UX design to make something look less ugly.
 
-<hr />
+https://aswinmohan.me/about for more.
